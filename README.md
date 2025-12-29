@@ -1,2 +1,2 @@
 # Calculator
-A simple GUI based scientific calculator
+A simple GUI based simple calculator
