@@ -168,8 +168,4 @@ Contributions are welcome! Feel free to:
 3. Submit pull requests
 4. Improve documentation
 
-## Contact
-
-For questions or feedback about this calculator application, please create an issue in the repository or contact the developer directly.
-
 ---
